@@ -1,0 +1,19 @@
+Si estas usando mariaDB en vex de mysql en LARAVEL 8
+
+seguramente al ejecutar las migraciones producirá un error 
+
+con codig 1071 acces violation.
+
+Para salucionarlo debes ir a:
+
+APP->PROVIDERS->APPSERVICEPROVIDER.PHP
+
+y agregar en los imports:
+
+use Illuminate\Support\Facades\Schema;
+
+y dentro de la funcion boot() agregar:
+
+ Schema::defaultStringLength(191);
+
+Con eso ya deberías poder ejecutar el comando php artisan migrate.
