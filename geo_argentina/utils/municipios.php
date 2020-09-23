@@ -2935,7 +2935,7 @@ $municipios_json ='
         {
             "nombre_completo": "Municipio Municipalidad de Tafi del Valle",
             "fuente": "Dirección de Estadística de la Prov. Tucumán",
-            "nombre": "Municipalidad de Tafi del Valle",
+            "nombre": "Tafi del Valle",
             "id": "900105",
             "provincia": {
                 "nombre": "Tucumán",
@@ -3479,7 +3479,7 @@ $municipios_json ='
         {
             "nombre_completo": "Municipio Municipalidad de la Cocha",
             "fuente": "Dirección de Estadística de la Prov. Tucumán",
-            "nombre": "Municipalidad de la Cocha",
+            "nombre": "La Cocha",
             "id": "900063",
             "provincia": {
                 "nombre": "Tucumán",
@@ -3687,7 +3687,7 @@ $municipios_json ='
         {
             "nombre_completo": "Municipio Municipalidad de Concepcion",
             "fuente": "Dirección de Estadística de la Prov. Tucumán",
-            "nombre": "Municipalidad de Concepcion",
+            "nombre": "Concepcion",
             "id": "900035",
             "provincia": {
                 "nombre": "Tucumán",
@@ -3879,7 +3879,7 @@ $municipios_json ='
         {
             "nombre_completo": "Municipio Municipalidad de Simoca",
             "fuente": "Dirección de Estadística de la Prov. Tucumán",
-            "nombre": "Municipalidad de Simoca",
+            "nombre": "Simoca",
             "id": "900098",
             "provincia": {
                 "nombre": "Tucumán",
@@ -5610,7 +5610,7 @@ $municipios_json ='
             "nombre": "Río Grande",
             "id": "940007",
             "provincia": {
-                "nombre": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+                "nombre": "Tierra del Fuego",
                 "id": "94",
                 "interseccion": 0.000224452042010576
             },
@@ -5655,7 +5655,7 @@ $municipios_json ='
         {
             "nombre_completo": "Municipio Municipalidad de las Talitas",
             "fuente": "Dirección de Estadística de la Prov. Tucumán",
-            "nombre": "Municipalidad de las Talitas",
+            "nombre": "Las Talitas",
             "id": "900112",
             "provincia": {
                 "nombre": "Tucumán",
@@ -9447,7 +9447,7 @@ $municipios_json ='
         {
             "nombre_completo": "Municipio Municipalidad de Lules",
             "fuente": "Dirección de Estadística de la Prov. Tucumán",
-            "nombre": "Municipalidad de Lules",
+            "nombre": "Lules",
             "id": "900077",
             "provincia": {
                 "nombre": "Tucumán",
@@ -10215,7 +10215,7 @@ $municipios_json ='
         {
             "nombre_completo": "Municipio Municipalidad de Alderetes",
             "fuente": "Dirección de Estadística de la Prov. Tucumán",
-            "nombre": "Municipalidad de Alderetes",
+            "nombre": "Alderetes",
             "id": "900021",
             "provincia": {
                 "nombre": "Tucumán",
@@ -10234,7 +10234,7 @@ $municipios_json ='
             "nombre": "Ushuaia",
             "id": "940014",
             "provincia": {
-                "nombre": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+                "nombre": "Tierra del Fuego",
                 "id": "94",
                 "interseccion": 2.66460794453795e-05
             },
@@ -15770,7 +15770,7 @@ $municipios_json ='
             "nombre": "Tolhuin",
             "id": "942007",
             "provincia": {
-                "nombre": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+                "nombre": "Tierra del Fuego",
                 "id": "94",
                 "interseccion": 0.000197171246727739
             },
@@ -18023,7 +18023,7 @@ $municipios_json ='
         {
             "nombre_completo": "Municipio Municipalidad de Graneros",
             "fuente": "Dirección de Estadística de la Prov. Tucumán",
-            "nombre": "Municipalidad de Graneros",
+            "nombre": "Graneros",
             "id": "900049",
             "provincia": {
                 "nombre": "Tucumán",
@@ -18183,7 +18183,7 @@ $municipios_json ='
         {
             "nombre_completo": "Municipio Municipalidad de San Miguel De Tucuman",
             "fuente": "Dirección de Estadística de la Prov. Tucumán",
-            "nombre": "Municipalidad de San Miguel De Tucuman",
+            "nombre": "San Miguel De Tucuman",
             "id": "900014",
             "provincia": {
                 "nombre": "Tucumán",
@@ -26727,7 +26727,7 @@ $municipios_json ='
         {
             "nombre_completo": "Municipio Municipalidad de Trancas",
             "fuente": "Dirección de Estadística de la Prov. Tucumán",
-            "nombre": "Municipalidad de Trancas",
+            "nombre": "Trancas",
             "id": "900126",
             "provincia": {
                 "nombre": "Tucumán",
@@ -27607,7 +27607,7 @@ $municipios_json ='
         {
             "nombre_completo": "Municipio Municipalidad de Juan Bautista Alberdi",
             "fuente": "Dirección de Estadística de la Prov. Tucumán",
-            "nombre": "Municipalidad de Juan Bautista Alberdi",
+            "nombre": "Juan Bautista Alberdi",
             "id": "900056",
             "provincia": {
                 "nombre": "Tucumán",
@@ -27831,7 +27831,7 @@ $municipios_json ='
         {
             "nombre_completo": "Municipio Municipalidad de Aguilares",
             "fuente": "Dirección de Estadística de la Prov. Tucumán",
-            "nombre": "Municipalidad de Aguilares",
+            "nombre": "Aguilares",
             "id": "900091",
             "provincia": {
                 "nombre": "Tucumán",
@@ -28372,22 +28372,7 @@ $municipios_json ='
                 "lon": -66.0630265040008
             }
         },
-        {
-            "nombre_completo": "Comuna Rural Municipalidad de Yerba Buena",
-            "fuente": "Dirección de Estadística de la Prov. Tucumán",
-            "nombre": "Municipalidad de Yerba Buena",
-            "id": "908560",
-            "provincia": {
-                "nombre": "Tucumán",
-                "id": "90",
-                "interseccion": 0.0020157161960623
-            },
-            "categoria": "Comuna Rural",
-            "centroide": {
-                "lat": -26.8078283932232,
-                "lon": -65.305300232263
-            }
-        },
+       
         {
             "nombre_completo": "Municipio Colonia Wanda",
             "fuente": "Ministerio de Ecología",
@@ -28663,7 +28648,7 @@ $municipios_json ='
         {
             "nombre_completo": "Municipio Municipalidad de Monteros",
             "fuente": "Dirección de Estadística de la Prov. Tucumán",
-            "nombre": "Municipalidad de Monteros",
+            "nombre": "Monteros",
             "id": "900084",
             "provincia": {
                 "nombre": "Tucumán",
@@ -28679,7 +28664,7 @@ $municipios_json ='
         {
             "nombre_completo": "Municipio Municipalidad de Tafi Viejo",
             "fuente": "Dirección de Estadística de la Prov. Tucumán",
-            "nombre": "Municipalidad de Tafi Viejo",
+            "nombre": "Tafi Viejo",
             "id": "900119",
             "provincia": {
                 "nombre": "Tucumán",
@@ -28695,7 +28680,7 @@ $municipios_json ='
         {
             "nombre_completo": "Municipio Municipalidad de Burruyacu",
             "fuente": "Dirección de Estadística de la Prov. Tucumán",
-            "nombre": "Municipalidad de Burruyacu",
+            "nombre": "Burruyacu",
             "id": "900007",
             "provincia": {
                 "nombre": "Tucumán",
@@ -28727,7 +28712,7 @@ $municipios_json ='
         {
             "nombre_completo": "Municipio Municipalidad de Bella Vista",
             "fuente": "Dirección de Estadística de la Prov. Tucumán",
-            "nombre": "Municipalidad de Bella Vista",
+            "nombre": "Bella Vista",
             "id": "900070",
             "provincia": {
                 "nombre": "Tucumán",
@@ -28871,7 +28856,7 @@ $municipios_json ='
         {
             "nombre_completo": "Municipio Municipalidad de Famailla",
             "fuente": "Dirección de Estadística de la Prov. Tucumán",
-            "nombre": "Municipalidad de Famailla",
+            "nombre": "Famailla",
             "id": "900042",
             "provincia": {
                 "nombre": "Tucumán",
@@ -28887,7 +28872,7 @@ $municipios_json ='
         {
             "nombre_completo": "Municipio Municipalidad de Banda del Rio Sali",
             "fuente": "Dirección de Estadística de la Prov. Tucumán",
-            "nombre": "Municipalidad de Banda del Rio Sali",
+            "nombre": "Banda del Rio Sali",
             "id": "900028",
             "provincia": {
                 "nombre": "Tucumán",
@@ -29027,7 +29012,627 @@ $municipios_json ='
                 "lat": -25.8492622245534,
                 "lon": -54.4206259685073
             }
+        },
+        {
+            "nombre":"La Banda",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Vilelas",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },        
+        {
+            "nombre":"Brea Pozo",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Pampa de los Guanacos",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Los Pirpintos",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"La Cañada",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Clodomira",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Loreto",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Suncho Corral",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Villa Ojo de Agua",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Monte Quemado",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Fernández",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Quimilí",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Añatuya",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Frías",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Termas de Río Hondo",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Santiago",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Los Telares",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Selva",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Weisburd",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"San Pedro de Guasayán",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Sacháyoj",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Garza",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Estación Simbolar",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Herrera",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Icaño",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Pinto",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Beltrán",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Ingeniero Forres",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Sumampa",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Bandera",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Campo Gallo",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Los Juríes",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Colonia El Simbolar",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Pozo Hondo",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Tintina",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Colonia Dora",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Villa Atamisqui",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Sol de Julio",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Nueva Esperanza",
+            "provincia":{
+                "nombre": "Santiago"
+            }
+        },
+        {
+            "nombre":"Colón",
+            "provincia":{
+                "nombre": "Entre Ríos"
+            }
+        },
+        {
+            "nombre":"Concordia",
+            "provincia":{
+                "nombre": "Entre rios"
+            }
+        },
+        {
+            "nombre":"Diamante",
+            "provincia":{
+                "nombre": "Entre rios"
+            }
+        },
+        {
+            "nombre":"Federación",
+            "provincia":{
+                "nombre": "Entre rios"
+            }
+        },
+        {
+            "nombre":"Federal",
+            "provincia":{
+                "nombre": "Entre rios"
+            }
+        },
+        {
+            "nombre":"Feliciano",
+            "provincia":{
+                "nombre": "Entre rios"
+            }
+        },
+        {
+            "nombre":"Gualeguay",
+            "provincia":{
+                "nombre": "Entre rios"
+            }
+        },
+        {
+            "nombre":"Gualeguaychú",
+            "provincia":{
+                "nombre": "Entre rios"
+            }
+        },
+        {
+            "nombre":"Islas del Ibicuy",
+            "provincia":{
+                "nombre": "Entre rios"
+            }
+        },
+        {
+            "nombre":"La Paz",
+            "provincia":{
+                "nombre": "Entre rios"
+            }
+        },
+        {
+            "nombre":"Nogoyá",
+            "provincia":{
+                "nombre": "Entre rios"
+            }
+        },
+        {
+            "nombre":"Paraná",
+            "provincia":{
+                "nombre": "Entre rios"
+            }
+        },
+        {
+            "nombre":"San Salvador",
+            "provincia":{
+                "nombre": "Entre rios"
+            }
+        },
+        {
+            "nombre":"Tala",
+            "provincia":{
+                "nombre": "Entre rios"
+            }
+        },
+        {
+            "nombre":"Uruguay",
+            "provincia":{
+                "nombre": "Entre rios"
+            }
+        },
+        {
+            "nombre":"Victoria",
+            "provincia":{
+                "nombre": "Entre rios"
+            }
+        },
+        {
+            "nombre":"Villaguay",
+            "provincia":{
+                "nombre": "Entre rios"
+            }
+        },
+        {
+            "nombre":"Caleta Olivia",
+            "provincia":{
+                "nombre": "Santa Cruz"
+            }
+        },
+        {
+            "nombre":"Las Heras",
+            "provincia":{
+                "nombre": "Santa Cruz"
+            }
+        },
+        {
+            "nombre":"Perito Moreno",
+            "provincia":{
+                "nombre": "Santa Cruz"
+            }
+        },
+        {
+            "nombre":"Los Antiguos",
+            "provincia":{
+                "nombre": "Santa Cruz"
+            }
+        },
+        {
+            "nombre":"Pico Truncado",
+            "provincia":{
+                "nombre": "Santa Cruz"
+            }
+        },
+        {
+            "nombre":"Puerto Deseado",
+            "provincia":{
+                "nombre": "Santa Cruz"
+            }
+        },
+        {
+            "nombre":"Gobernador Gregores",
+            "provincia":{
+                "nombre": "Santa Cruz"
+            }
+        },
+        {
+            "nombre":"Puerto San Julián",
+            "provincia":{
+                "nombre": "Santa Cruz"
+            }
+        },
+        {
+            "nombre":"El Chaltén",
+            "provincia":{
+                "nombre": "Santa Cruz"
+            }
+        },
+        {
+            "nombre":"Comandante Luis Piedrabuena",
+            "provincia":{
+                "nombre": "Santa Cruz"
+            }
+        },
+        {
+            "nombre":"El Calafate",
+            "provincia":{
+                "nombre": "Santa Cruz"
+            }
+        },
+        {
+            "nombre":"Veintiocho de Noviembre",
+            "provincia":{
+                "nombre": "Santa Cruz"
+            }
+        },
+        {
+            "nombre":"Río Turbio",
+            "provincia":{
+                "nombre": "Santa Cruz"
+            }
+        },
+        {
+            "nombre":"Puerto Santa Cruz",
+            "provincia":{
+                "nombre": "Santa Cruz"
+            }
+        },
+        {
+            "nombre":"Río Gallegos",
+            "provincia":{
+                "nombre": "Santa Cruz"
+            }
+        },
+        {
+            "nombre":"Abasto",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Colegiales",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
         }
+        ,
+        {
+            "nombre":"Belgrano",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Parque Avellaneda",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Flores",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Floresta",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"San Cristóbal",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Constitución",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Pompeya",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Mataderos",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Liniers",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Villa del Parque",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Once",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Barracas",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Microcentro",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Villareal",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Villa Pueyrredón",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Puerto Madero",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Balvanera",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Congreso",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Caballito",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Lugano",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Parque Patricios",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Parque Chacabuco",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Villa Devoto",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"San Nicolás",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Villa Urquiza",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Palermo",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Barrio Norte",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"San Telmo",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        },
+        {
+            "nombre":"Villa Crespo",
+            "provincia":{
+                "nombre": "Ciudad Autónoma de Buenos Aires"
+            }
+        }
+
     ],
     "parametros": {},
     "inicio": 0
