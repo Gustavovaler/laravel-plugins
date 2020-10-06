@@ -1,5 +1,6 @@
 ## utilidades para crear campos de provincia y localidad
 
+version = laravel 7
 
 ### API provincias 
 
