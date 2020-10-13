@@ -1,4 +1,4 @@
-Si estas usando mariaDB en vex de mysql en LARAVEL 8
+Si estas usando mariaDB en vez de mysql en LARAVEL 8
 
 seguramente al ejecutar las migraciones producirá un error 
 
